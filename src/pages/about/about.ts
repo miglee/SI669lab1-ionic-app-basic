@@ -10,11 +10,11 @@ export class AboutPage {
   constructor(public navCtrl: NavController) {
   now: Date;
 
-this.now = new Date();
+  this.now = new Date();
 
-author: String;
+  author: String;
 
-this.author = 'Mingli Lee'; 
+  this.author = 'Mingli Lee'; 
 
   }
 
